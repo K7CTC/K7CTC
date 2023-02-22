@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @K7CTC
 - 👀 I’m interested in ... Aviation, synthesizers, computer science, amateur radio.
-- 🌱 I’m currently learning ... Git and GitHub.
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... I'm good on QRZ.
 
 <!---
